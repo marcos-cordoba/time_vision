@@ -24,7 +24,7 @@
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/usuario/time_vision.git
+git clone https://github.com/marcos-cordoba/time_vision
 cd time_vision
 ```
 
